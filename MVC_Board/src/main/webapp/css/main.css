@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+article {
+	text-align: center;
+}
+#joinForm {
+	width: 500px;
+	height: 600px;
+	margin: auto;
+}
+article h1 {
+	text-align: center;
+}
+article h3 {
+	text-align: center;
+}
